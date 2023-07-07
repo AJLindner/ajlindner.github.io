@@ -1,4 +1,4 @@
-#### [Read my Blog on Hashnode](https://blog.ajlindner.info) / [Laugh at my Code on Github](https://github.com/AJLindner) / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner)  / [Check my Resume](https://registry.jsonresume.org/ajlindner) / [Watch some of my Videos on Youtube](https://ajlindner.info/videos)
+#### [Read my Blog](https://blog.ajlindner.info){:target="_blank"}  / [Laugh at my Code](https://github.com/AJLindner){:target="_blank"}  / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner){:target="_blank"}   / [Check my Resume](https://registry.jsonresume.org/ajlindner){:target="_blank"}  / [Watch my Videos](https://ajlindner.info/videos){:target="_blank"} 
 
 ---
 

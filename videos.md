@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Video Projects"
 permalink: /videos
+---
 
 # Check out some of my better video projects
 
