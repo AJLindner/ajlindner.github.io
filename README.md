@@ -1,4 +1,2 @@
-# AJ Lindner
-
-- [Resume](https://resume.ajlindner.info)
-- [Blog](https://blog.ajlindner.info)
+# Links
+[Resume](resume.ajlindner.info) <> [Blog](https://blog.ajlindner.info) <> [LinkedIn](https://www.linkedin.com/in/ajlindner)
