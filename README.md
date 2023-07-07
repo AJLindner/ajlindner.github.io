@@ -19,5 +19,4 @@ When I'm not being a nerd, you can catch me cooking, playing with my dogs, boati
 ---
 
 # Some of my better Video Projects
-{% include youtubePlayer.html id=fZBCwWuqF3c %}
-{% include youtubePlayer.html id=3U4S7inJvs0 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZBCwWuqF3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
