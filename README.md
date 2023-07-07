@@ -1,4 +1,4 @@
-### [Read my Blog on Hashnode](https://blog.ajlindner.info) / [Laugh at my Code on Github](https://github.com/AJLindner) / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner)  / [Check my Resume](https://registry.jsonresume.org/ajlindner)
+#### [Read my Blog on Hashnode](https://blog.ajlindner.info) / [Laugh at my Code on Github](https://github.com/AJLindner) / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner)  / [Check my Resume](https://registry.jsonresume.org/ajlindner) / [Watch some of my Videos on Youtube](https://ajlindner.info/videos)
 
 ---
 
@@ -15,8 +15,3 @@ I'm engaged in one of many casual hobbies. Obsessing over a video game (probably
     Powershell counts as a hobby, right?
 
 When I'm not being a nerd, you can catch me cooking, playing with my dogs, boating at the lake, backpacking in the wilderness, jamming out at concerts, playing drums, or snowboarding when I get the chance to hit the other side of the country.
-
----
-
-# Some of my better Video Projects
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZBCwWuqF3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
