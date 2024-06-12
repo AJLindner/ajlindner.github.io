@@ -1,4 +1,4 @@
-#### [Read my Blog](https://blog.ajlindner.net){:target="_blank"}  / [Laugh at my Code](https://github.com/AJLindner){:target="_blank"}  / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner){:target="_blank"}   / [Check my Resume](https://registry.jsonresume.org/ajlindner){:target="_blank"}  / [Watch my Videos](https://ajlindner.net/videos){:target="_blank"} 
+#### [Read my Blog](https://blog.ajlindner.net){:target="_blank"}  / [Laugh at my Code](https://github.com/AJLindner){:target="_blank"}  / [Connect on LinkedIn](https://www.linkedin.com/in/ajlindner){:target="_blank"}   / [Check my Resume](https://registry.jsonresume.org/ajlindner){:target="_blank"}  / [Watch my Videos](https://ajlindner.net/videos)
 
 ---
 
@@ -10,7 +10,7 @@ I spent years as a Security Engineer in the finance industry building an Identit
     Occasionally, I write blog posts and create videos about the products I specialize in.
 
 ## When I'm not working...
-I'm engaged in one of many casual hobbies. Obsessing over a video game (probably an RPG), working on janky tech projects like [creating a custom software KVM](https://www.linkedin.com/pulse/create-your-own-software-kvm-free-unnecessarily-in-depth-aj-lindner/), building or modifying a computer, exploring a new band or album (i.e. addictively blasting it on repeat), playing chess, Magic: The Gathering, or pool with friends, wasting time or diving down a rabbit hole on YouTube, or exploring any other topic that catches my interest.
+I'm engaged in one of many casual hobbies. Obsessing over a video game (probably an RPG), working on janky tech projects like [creating a custom software KVM](https://www.linkedin.com/pulse/create-your-own-software-kvm-free-unnecessarily-in-depth-aj-lindner/){:target="_blank"}, building or modifying a computer, exploring a new band or album (i.e. addictively blasting it on repeat), playing chess, Magic: The Gathering, or pool with friends, wasting time or diving down a rabbit hole on YouTube, or exploring any other topic that catches my interest.
 
     Powershell counts as a hobby, right?
 
