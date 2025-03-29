@@ -11,3 +11,4 @@ permalink: /videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZBCwWuqF3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3U4S7inJvs0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src='//players.brightcove.net/5857818218001/yCe6GioEX_default/index.html?videoId=6364716766112' frameborder=0 allowfullscreen></iframe>
